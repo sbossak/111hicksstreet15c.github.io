@@ -1,0 +1,16 @@
+---
+layout: default
+image_main: pass_through.JPG
+slug: entryway
+icon: door-open
+images:
+ - url: entryway.JPG
+   caption: View from the dining area
+ - url: bookshelf.JPG
+   caption: A built in bookcase followed by two hallway closets.
+category: gallery
+title: Entryway
+description: |
+---
+
+A built in bookcase greets you as you enter the apartment.

@@ -1,0 +1,23 @@
+---
+layout: default
+slug: views
+icon: binoculars
+image_main: pass_through.JPG
+images:
+ - url: skyline.JPG
+   caption: View of the World Trade Center
+ - url: statue.JPG
+   caption: View of the Statue of Liberty and harbor
+ - url: skyline_day.jpg
+   caption: View from the 27th floor roof deck
+ - url: skyline_dusk.JPG
+   caption: View from the 27th floor roof deck at sunset
+ - url: roof-bridge.jpg
+   caption: Large sitting area on the roof
+ - url: fireworks.JPG
+   caption: July 4 fireworks from the roof
+category: gallery
+title: Views
+description: |
+---
+Look out to The Statue of Liberty and World Trade Center from the apartment. Or take in the incredible roof deck on the 27th floor with its unobstructed 360-degree views of the city and harbor.

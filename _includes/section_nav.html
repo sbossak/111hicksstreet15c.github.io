@@ -1,0 +1,14 @@
+<div id="nav-section" class="container-fluid text-cente">
+  <div class="container">
+    <div>
+      <ul class="list-group list-group-horizontal-sm">
+        {% for post in site.posts reversed %}
+        <li class="list-group-item">
+          <a href="#{{ post.slug }}" class="btn page-scroll"><i class="fa fa-{{ post.icon }} fa-fw"></i> <span class="network-name">{{ post.title }}</span></a>
+        </li>
+
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

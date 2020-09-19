@@ -1,0 +1,14 @@
+---
+layout: default
+slug: lobby
+icon: envelope
+image_main: pass_through.JPG
+images:
+ - url: lobby-lower.jpg
+   caption: The recently renovated lobby
+ - url: lobby-upper.jpg
+   caption: The upper level of the lobby
+category: gallery
+title: Lobby
+description: |
+---
