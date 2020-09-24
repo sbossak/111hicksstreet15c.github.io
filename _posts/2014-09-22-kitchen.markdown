@@ -1,0 +1,15 @@
+---
+layout: default
+slug: kitchen
+icon: sink
+image_main: pass_through.JPG
+images:
+ - url: kitchen_right.JPG
+ - url: kitchen_left.JPG
+ - url: kitchen_front.JPG
+category: gallery
+title: Kitchen
+description: |
+---
+
+The kitchen features stainless steel appliances, a full-size dishwasher, under cabinet lighting and yet another fabulous view of the harbor.

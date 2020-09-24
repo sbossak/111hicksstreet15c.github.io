@@ -1,0 +1,15 @@
+---
+layout: default
+image_main: pass_through.JPG
+slug: entryway
+icon: door-open
+images:
+ - url: entryway.JPG
+ - url: entryway_2.JPG
+ - url: bookshelf.JPG
+category: gallery
+title: Entryway
+description: |
+---
+
+The kitchen features stainless steel appliances, a full-size dishwasher, under cabinet lighting and yet another fabulous view of the harbor.

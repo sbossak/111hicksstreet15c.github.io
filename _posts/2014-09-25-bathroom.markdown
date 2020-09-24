@@ -1,0 +1,14 @@
+---
+layout: default
+slug: bathroom
+icon: toilet
+image_main: pass_through.JPG
+images:
+ - url: bathroom_hall.JPG
+ - url: bathroom.JPG
+category: gallery
+title: Bathroom
+description: |
+---
+
+Walk past the hallway’s dual closets to reach the bathroom, which is outfitted with a soaking tub/shower and Japanese washlet bidet.

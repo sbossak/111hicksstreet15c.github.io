@@ -1,0 +1,13 @@
+---
+layout: default
+slug: alcove
+icon: bed
+images:
+ - url: bed_from_living.JPG
+ - url: bed_above.JPG
+category: gallery
+title: Alcove
+description: |
+---
+
+The generous sleeping alcove that adjoins the living area features a spacious ceiling-height closet.
